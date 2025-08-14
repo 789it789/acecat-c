@@ -1,7 +1,7 @@
 # acecat-c
 cat, but prints ace flag, wrote in C
 
-This program is meant to be ran piped, ex: ``cat file.txt | acecat-c``
+Example usage: ``cat file.txt | acecat-c`` or: ``acecat-c file.txt``
 
 ## To build
 ``make`` then: ``sudo make install``
